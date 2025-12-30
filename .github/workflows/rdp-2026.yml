@@ -22,7 +22,7 @@ jobs:
 
     env:
       RDP_USER: deepsarker
-      RDP_PASS: sdddep22@
+      RDP_PASS: sddeep22@
       MAIN_RUNTIME_MIN: 360
 
     steps:
